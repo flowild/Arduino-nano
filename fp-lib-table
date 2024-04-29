@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Arduino-nano")(type "KiCad")(uri "${KIPRJMOD}/Library/footprints.pretty")(options "")(descr ""))
+)
